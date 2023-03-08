@@ -135,6 +135,10 @@ cursor: pointer;
     padding-bottom: 70px;
 }
 
+.span-color{
+    color: #79086a;
+}
+
 .title-text p{
     margin: auto;
     font-size: 20px;
