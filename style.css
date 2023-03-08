@@ -130,6 +130,7 @@ cursor: pointer;
 #feature{
     width: 100%;
     padding: 70px 0;
+     background:linear-gradient(rgba(0,0,0,0.5),#79086ab0);
 }
 .title-text{
     text-align: center;
