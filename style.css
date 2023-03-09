@@ -461,7 +461,7 @@ cursor: pointer;
 transition: .5s;
 }
 .social-links .fa-brands:hover{
-    background: #79086a;
+    background:green;
     color: #fff;
     transform: translate(-7px);
 }
