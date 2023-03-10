@@ -69,9 +69,7 @@ scroll-behavior: smooth;
 
 .banner-btn a:hover span {
     width:100%;
-}
-
-.banner-btn a:hover{color:#79086a;}
+}.banner-btn a:hover{color:#79086a;}
 
 
 
@@ -97,7 +95,7 @@ nav ul li a{
     color:#fff;
  }
 
- #manubtn{
+ #manubtn {
 width:50px;
 height:50px;
 background:#79086a;
@@ -128,21 +126,21 @@ cursor:pointer;
  }
 
 /* feature */
-#feature{
+#feature {
     width: 100%;
     padding: 70px 0;
 
 }
-.title-text{
+.title-text {
     text-align: center;
     padding-bottom: 70px;
 }
 
-.span-color{
+.span-color {
     color: #79086a;
 }
 
-.title-text p{
+.title-text p {
     margin: auto;
     font-size: 20px;
     color: #79086a;
@@ -152,7 +150,7 @@ cursor:pointer;
     display: inline-block;
 }
 
-.title-text p::after{
+.title-text p::after {
    content: '';
    width: 50px;
    height: 35px;
@@ -166,11 +164,11 @@ cursor:pointer;
    border-bottom-left-radius: 35px;
 }
 
-.title-text h1{
+.title-text h1 {
     font-size: 50px;
 }
 
-.featere-box{
+.featere-box {
 width:80%;
 margin: auto;
 display: flex;
@@ -179,33 +177,33 @@ align-items: center;
 text-align: center;
 }
 
- .features{
+ .features {
     flex-basis: 50%;
  }
 
- .features p{
+ .features p {
     color: #42203e;
  }
 
- .features-img{
+ .features-img {
     
 flex-basis: 50%;
 margin: auto;
  }
 
- .features-img img{
+ .features-img img {
     width: 70%;
     border-radius: 10px;
  }
 
- .features h1{
+ .features h1 {
     text-align: left;
     margin-bottom: 10px;
     font-weight: 100;
     color: #79086a;
  }
 
- .features-desc{
+ .features-desc {
     display: flex;
     align-self: center;
     margin-bottom: 40px;
@@ -313,7 +311,7 @@ hr {
     font-family: poppins,sans-serif;
 }
 
-.single-service:hover .service-desc{ 
+.single-service:hover .service-desc { 
 bottom: 40%;
 opacity: 1;
 }
