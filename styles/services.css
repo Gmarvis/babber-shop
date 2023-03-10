@@ -7,7 +7,7 @@ scroll-behavior: smooth;
 }
 
 #banner{
-    background:linear-gradient(rgba(0,0,0,0.5),#79086ab0), url(./Barber_Shop_img/mainbg);
+    background:linear-gradient(rgba(0,0,0,0.5),#79086ab0), url(../Barber_Shop_img/vsd.jpeg);
 
     background-size: cover;
     background-position: center;
@@ -465,7 +465,7 @@ cursor: pointer;
 transition: .5s;
 }
 .social-links .fa-brands:hover{
-    background:green;
+    background:#79086a;
     color: #fff;
     transform: translate(-7px);
 }
